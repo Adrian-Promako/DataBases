@@ -1,0 +1,24 @@
+
+
+Y el orden correcto de ejecución del archivo debe ser:
+
+ciudades
+clientes
+proyectos ← debe ir antes que desarrolladores
+desarrolladores ← ahora ya existen los id_proyecto
+asignaciones
+tareas
+
+
+
+1.
+Listar proyectos junto con el nombre del cliente
+2.
+Mostrar desarrolladores asignados a cada proyecto
+3.
+Listar tareas junto con el proyecto al que pertenecen
+4.
+Mostrar proyectos con desarrolladores y roles
+5.
+Listar tareas junto con el desarrollador asignado    ↓
+
