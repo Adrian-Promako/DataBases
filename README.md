@@ -1,4 +1,4 @@
-! [image](<Ejemplos%20de%20SQL/22-11-45-landing-mysql-banner-img.jpg>)
+![image](<Ejemplos%20de%20SQL/22-11-45-landing-mysql-banner-img.jpg>)
 
 __…or create a new repository on the command line__  
 ```
